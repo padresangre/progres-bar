@@ -1,0 +1,9 @@
+.carousel-item img{
+    max-width: 100vw;
+    max-height: 100vh;
+}
+hr{
+    height: 3px;
+    background-color: #ff2d2d;
+    border: none;
+}
